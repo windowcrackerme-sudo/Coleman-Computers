@@ -10,7 +10,7 @@ body {
 }
 h1.Tabs {
 	font-size: 4rem;
-	 text-align: center;
+	 vertical-align: bottom;
 }
 
 h1 {
