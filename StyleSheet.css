@@ -8,6 +8,9 @@ body {
 	align-items: center;
 	justify-content: center;
 }
+h1.Tabs {
+	font-size: 4rem;
+}
 
 h1 {
 	color: green;
