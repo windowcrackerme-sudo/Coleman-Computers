@@ -10,7 +10,7 @@ body {
 }
 h1.Tabs {
 	font-size: 4rem;
-	 vertical-align: bottom;
+	 
 }
 
 h1.Heading {
@@ -18,6 +18,7 @@ h1.Heading {
 	font-family: 'Share Tech Mono', 'Cascadia Code', Menlo, Monaco, 'Courier New', monospace;
 	font-size: 6rem;
 	filter: drop-shadow(0px 0px 5px currentColor);
+	text-align: center;
 	
 	&::after {
 		content: '';
