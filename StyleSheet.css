@@ -5,7 +5,7 @@ body {
 	overflow: hidden;
 	background-color: #000;
 	display: flex;
-	align-items: center;
+	
 }
 h1.Tabs {
 	color: green;
@@ -13,6 +13,7 @@ h1.Tabs {
 	font-size: 2rem;
 	filter: drop-shadow(0px 0px 5px currentColor);
 	text-align: center;
+	
 	 
 }
 
@@ -21,7 +22,7 @@ h1.Heading {
 	font-family: 'Share Tech Mono', 'Cascadia Code', Menlo, Monaco, 'Courier New', monospace;
 	font-size: 6rem;
 	filter: drop-shadow(0px 0px 5px currentColor);
-	text-align: center;
+	align-self: center;
 	
 	&::after {
 		content: '';
