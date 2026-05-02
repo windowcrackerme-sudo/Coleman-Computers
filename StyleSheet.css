@@ -8,7 +8,11 @@ body {
 	align-items: center;
 }
 h1.Tabs {
-	font-size: 4rem;
+	color: green;
+	font-family: 'Share Tech Mono', 'Cascadia Code', Menlo, Monaco, 'Courier New', monospace;
+	font-size: 2rem;
+	filter: drop-shadow(0px 0px 5px currentColor);
+	text-align: center;
 	 
 }
 
