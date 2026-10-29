@@ -10,7 +10,7 @@ body {
 	
 	
 }
-h2{
+h2 {
 	font-size: 2rem;
 	color: green;
 	font-family: 'Share Tech Mono', 'Cascadia Code', Menlo, Monaco, 'Courier New', monospace;
@@ -22,7 +22,10 @@ h2{
 h2.AboutMeInfo{
     text-align: center;
 }
-
+a{
+ color: green;	
+	
+}
 
 
 h1{
